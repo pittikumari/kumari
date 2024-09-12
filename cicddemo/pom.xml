@@ -39,7 +39,7 @@
 <region>us-east-1</region>
 <workers>1</workers>
 <workerType>Micro</workerType>
-<applicationName>deployQ1</applicationName>
+<applicationName>cicddemo</applicationName>
 <objectStoreV2>true</objectStoreV2>
 </cloudHubDeployment>
 </configuration>
