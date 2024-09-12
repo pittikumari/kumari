@@ -31,9 +31,24 @@
 				<extensions>true</extensions>
 				<configuration>
 <cloudHubDeployment>
+<uri>https://anypoint.mulesoft.com</uri>
+<username>ParijathaCICD</username>
+<password>Sudheer.194</password>
+<environment>Sandbox</environment>
+<muleVersion>4.6.0</muleVersion>
+<workers>1</workers>
+<workerType>Micro</workerType>
+<applicationName>cicddemo</applicationName>
+<objectStoreV2>true</objectStoreV2>
+</cloudHubDeployment>
+</configuration>
+
+
+				<configuration>
+<cloudHubDeployment>
 <uri>
 https://anypoint.mulesoft.com</uri>
-<username>kumari_12</username>
+<username>kumari131</username>
 <password>Kumari@13</password>
 <environment>Sandbox</environment>
 <muleVersion>4.7.0</muleVersion>
