@@ -38,7 +38,7 @@
 <muleVersion>4.6.0</muleVersion>
 <workers>1</workers>
 <workerType>Micro</workerType>
-<applicationName>cicddemo</applicationName>
+<applicationName>cicddemo123</applicationName>
 <objectStoreV2>true</objectStoreV2>
 </cloudHubDeployment>
 </configuration>
